@@ -3,7 +3,7 @@
 use warnings;
 use strict;
 
-
+#### CHANGE
 open (my $fh, "<", "data.txt") or die "could not open file: $!\n";
 
 my %names;
